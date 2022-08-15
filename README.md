@@ -1,7 +1,7 @@
-Olá, tudo bem? 
-My name is Nathan, I'm a web developer and I've lived in 3 different countries. 
-I really enjoy creating apps and software and learning new tech makes it even more intriguing. 
-Feel free to check out my projects!
+Olá, tudo bem?  
+My name is Nathan, I'm a web developer and I've lived in 3 different countries.  
+I really enjoy creating apps and software and learning new tech makes it even more intriguing.  
+Feel free to check out my projects!  
 
 ### My Stack and Tools:
 - React, JavaScript, HTML5, CSS3, Node, Express
