@@ -9,7 +9,7 @@ Feel free to check out my projects!
 - Learning: more React, Typescript
 
 ### What I'm currently working on:
-I’m currently working on my full-stack solo project [STRIVE-Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
+- Solo full-stack project [STRIVE-Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
 
 ### How to reach me:
 - nuchuang.work@gmail.com
