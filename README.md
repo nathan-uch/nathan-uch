@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá, tudo bem? 
+My name is Nathan, I'm a web developer and I've lived in 3 different countries. 
+I really enjoy creating apps and software and learning new tech makes it even more intriguing. 
+Feel free to check out my projects!
 
-<!--
-**nathan-uch/nathan-uch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stack and Tools:
+- React, JavaScript, HTML5, CSS3, Node, Express
+- NPM, PostgreSQL, Webpack, Babel, Git, Github, Bootstrap, Figma
+- Learning: more React, Typescript
 
-Here are some ideas to get you started:
+### What I'm currently working on:
+I’m currently working on my full-stack solo project [STRIVE-Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me:
+Linkedin(https://www.linkedin.com/in/nathanuch) or nuchuang.work@gmail.com
+
+### Other interests:
+Bouldering
