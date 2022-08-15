@@ -12,7 +12,8 @@ Feel free to check out my projects!
 I’m currently working on my full-stack solo project [STRIVE-Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
 
 ### How to reach me:
-[Linkedin](https://www.linkedin.com/in/nathanuch) or nuchuang.work@gmail.com
+- nuchuang.work@gmail.com
+- [Linkedin](https://www.linkedin.com/in/nathanuch)
 
 ### Other interests:
 Bouldering
