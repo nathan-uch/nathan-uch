@@ -5,7 +5,7 @@ Feel free to check out my projects!
 
 ## :books: My Stack and Tools:
 - React, JavaScript, HTML5, CSS3, Node, Express
-- NPM, PostgreSQL, Webpack, Babel, Git, Github, Bootstrap, Figma
+- NPM, PostgreSQL, Webpack, Babel, Git, GitHub, Bootstrap, Figma
 - Learning: more React, Typescript
 
 ## :construction: What I'm currently working on:
