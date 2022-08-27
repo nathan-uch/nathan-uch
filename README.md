@@ -4,8 +4,8 @@ I really enjoy creating apps and software and learning new tech makes it even mo
 Feel free to check out my projects!  
 
 ## :books: My Stack and Tools:
-- React, JavaScript, HTML5, CSS3, Node, Express
-- NPM, PostgreSQL, Webpack, Babel, Git, GitHub, Bootstrap, Figma
+- JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL
+- NPM, Webpack, Babel, Git, GitHub, Bootstrap, Figma, Bulma.io, Slack, VSCode
 - Learning: more React, Typescript
 
 ## :construction: What I'm currently working on:
