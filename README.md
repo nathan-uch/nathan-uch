@@ -15,7 +15,7 @@ Here's my [portfolio](https://www.nathanhuang.dev)
 
 ## :mailbox: How to reach me:
 - nuchuang.work@gmail.com
-- [Linkedin](https://www.linkedin.com/in/nathanuch)
+- [LinkedIn](https://www.linkedin.com/in/nathanuch)
 
 ## :moyai: Other interests:
 Bouldering
