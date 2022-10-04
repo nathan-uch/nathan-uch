@@ -6,8 +6,8 @@ Feel free to check out my projects!
 Here's my [portfolio](https://www.nathanhuang.dev)
 
 ## :books: My Stack and Tools:
-- JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL
-- NPM, Webpack, Babel, Git, GitHub, Bootstrap, Figma, Bulma.io, Slack, VSCode
+- JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Next.js
+- NPM, Webpack, Babel, Git, GitHub, Bootstrap, Tailwind, Figma, Bulma.io, Slack, VSCode
 - Learning: more React, Typescript
 
 ## :construction: What I'm currently working on:
