@@ -11,7 +11,6 @@ Feel free to check out my projects!
 - Learning: more React & TypeScript
 
 ## :construction: What I'm currently working on:
-- Recently built my [portfolio website](https://nathanhuang.dev)
 - Creating NGO website as volunteer developer using React, Nextjs, Tailwind, Strapi
 
 ## :mailbox: How to reach me:
