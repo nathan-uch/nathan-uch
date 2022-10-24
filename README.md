@@ -11,6 +11,7 @@ Feel free to check out my projects!
 - Learning: more React & TypeScript
 
 ## :construction: What I'm currently working on:
+- [Strive - Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
 - Creating NGO website as volunteer developer using React, Nextjs, Tailwind, Strapi
 
 ## :mailbox: How to reach me:
