@@ -19,6 +19,6 @@ Feel free to check out my projects!
 - [LinkedIn](https://www.linkedin.com/in/nathanuch)
 
 ## :moyai: Other interests:
-BBQ
-Movies
-Gaming
+- BBQ
+- Movies
+- Gaming
