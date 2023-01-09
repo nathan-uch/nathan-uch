@@ -8,7 +8,7 @@ Feel free to check out my projects!
 ## :books: My Stack and Tools:
 - JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Next.js, TypeScript
 - Bootstrap, Tailwind, Bulma.io, npm, Webpack, Git, GitHub, Babel, Figma, Slack, VSCode
-- Learning: more React & TypeScript
+- Learning: React, TypeScript, jQuery
 
 ## :construction: What I'm currently working on:
 - [Strive - Workout Tracker](https://github.com/nathan-uch/strive-workout-tracker)
