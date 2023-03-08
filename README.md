@@ -7,8 +7,7 @@ Feel free to check out my projects!
 
 ## :books: My Stack and Tools:
 - JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Next.js, TypeScript
-- Bootstrap, Tailwind, Bulma.io, npm, Webpack, Git, GitHub, Babel, Figma, Slack, VSCode
-- Learning: React, jQuery
+- Bootstrap, Tailwind, Bulma.io, jQuery, Apache Velocity, npm, Webpack, Git, GitHub, Babel, Figma, VSCode
 
 ## :mailbox: How to reach me:
 - nuchuang.work@gmail.com
