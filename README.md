@@ -10,9 +10,6 @@ Feel free to check out my projects!
 - Bootstrap, Tailwind, Bulma.io, npm, Webpack, Git, GitHub, Babel, Figma, Slack, VSCode
 - Learning: React, jQuery
 
-## :construction: What I'm currently working on:
-- Creating NGO website as volunteer developer using React, Nextjs, Tailwind, Strapi
-
 ## :mailbox: How to reach me:
 - nuchuang.work@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/nathanuch)
