@@ -1,7 +1,7 @@
 export default function App() {
 
     return (
-      <nav id="main" class="bg-red-50">
+      <nav id="main" class="border-b border-pri-dark">
         <div>Navbar</div>
       </nav>
     );
