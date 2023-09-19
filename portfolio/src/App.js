@@ -1,4 +1,6 @@
 import Navbar from './components/Navbar'
+import Landing from './components/Landing'
+import About from './components/About'
 
 export default function App() {
 
@@ -6,7 +8,8 @@ export default function App() {
     <>
       <Navbar />
       <main id="main">
-        <div class="text-center">TEST</div>
+        <Landing />
+        <About />
       </main>
     </>
   );

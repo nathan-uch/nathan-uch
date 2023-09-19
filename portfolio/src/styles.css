@@ -1,0 +1,11 @@
+.text-header {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: #fff;
+    -webkit-text-stroke-color: #1f1f1f;
+    transition: text-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+  
+.text-header:hover {
+    transform: translateX(-3px) translateY(-3px);
+    text-shadow: 3px 3px 0 #1f1f1f;
+}
