@@ -9,7 +9,15 @@ export default function App() {
                     Tech Stack
                 </div>
                 <ul class="w-[80%] flex flex-wrap justify-center gap-3 mb-6">
-                    
+                    {techStack.map(tech => (
+                        <li>
+                            <img 
+                                srcset={`${tech.icon1x} 1x, ${tech.icon2x} 2x`}
+                                src={tech.icon} 
+                                alt={`${tech.name} icon`} />
+                            <h3>{tech.name}</h3>
+                        </li>
+                    ))}
                 </ul>
             </div>
             <div>

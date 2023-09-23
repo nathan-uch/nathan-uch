@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(0%,0%,0%);fill-opacity:0.403922;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(55.686275%,45.882353%,100%);fill-opacity:1;" d="M 16.023438 0.101562 L 16.023438 16.785156 L 0.617188 16.785156 C 0.40625 16.78125 0.21875 16.65625 0.136719 16.460938 C 0.0546875 16.265625 0.101562 16.042969 0.25 15.894531 Z M 33.207031 49.410156 L 33.207031 33.984375 L 49.871094 33.984375 L 34.097656 49.777344 C 33.949219 49.925781 33.726562 49.96875 33.53125 49.890625 C 33.335938 49.808594 33.207031 49.621094 33.207031 49.410156 Z M 16.023438 16.785156 L 32.6875 16.785156 C 32.976562 16.785156 33.207031 17.015625 33.207031 17.304688 L 33.207031 33.984375 L 17.066406 33.984375 C 16.492188 33.984375 16.023438 33.519531 16.023438 32.945312 Z M 16.023438 16.785156 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(55.686275%,45.882353%,100%);fill-opacity:1;" d="M 33.207031 33.984375 L 33.207031 17.824219 C 33.207031 17.25 32.742188 16.785156 32.167969 16.785156 L 16.023438 16.785156 L 16.023438 0.101562 L 48.828125 0.101562 C 49.40625 0.101562 49.871094 0.566406 49.871094 1.144531 L 49.871094 33.984375 Z M 33.207031 33.984375 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>
