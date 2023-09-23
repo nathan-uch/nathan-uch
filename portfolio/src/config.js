@@ -1,93 +1,143 @@
+import apache from './icons/apache.png'
+import bootstrap from './icons/bootstrap.svg'
+import bulma from './icons/bulma.svg'
+import css from './icons/css.svg'
+import dbDesigner from './icons/dbdesigner.png'
+import express from './icons/express.svg'
+import figma from './icons/figma.svg'
+import git from './icons/git.svg'
+import github from './icons/github.svg'
+import html from './icons/html.svg'
+import httpie from './icons/httpie.svg'
+import javascript from './icons/javascript.svg'
+import jquery from './icons/jquery.svg'
+import nextjs from './icons/nextjs.svg'
+import node from './icons/node.svg'
+import npm from './icons/npm.svg'
+import postgresql from './icons/postgresql.svg'
+import react from './icons/react.svg'
+import strapi from './icons/strapi.svg'
+import tailwind from './icons/tailwind.svg'
+import typescript from './icons/typescript.svg'
+import webpack from './icons/webpack.svg'
+
 export const techStack = [
     {
         name: "JavaScript",
-        imagePath: ""
+        imageType: "svg",
+        image: javascript,
     },
     {
         name: "React.js",
-        imagePath: ""
+        imageType: "svg",
+        image: react,
     },
     {
         name: "HTML",
-        imagePath: ""
+        imageType: "svg",
+        image: html
     },
     {
         name: "CSS",
-        imagePath: ""
+        imageType: "svg",
+        image: css
     },
     {
         name: "Next.js",
-        imagePath: ""
+        imageType: "svg",
+        image: nextjs
     },
     {
         name: "Express.js",
-        imagePath: ""
+        imageType: "svg",
+        image: express
     },
     {
         name: "Node.js",
-        imagePath: ""
+        imageType: "svg",
+        image: node
     },
     {
         name: "PostgreSQL",
-        imagePath: ""
+        imageType: "svg",
+        image: postgresql
     },
     {
         name: "TypeScript",
-        imagePath: ""
+        imageType: "svg",
+        image: typescript
     },
     {
         name: "Bootstrap",
-        imagePath: ""
+        imageType: "svg",
+        image: bootstrap
     },
     {
         name: "Tailwind",
-        imagePath: ""
+        imageType: "svg",
+        image: tailwind
     },
     {
         name: "GraphQL",
-        imagePath: ""
+        imageType: "svg",
+        image: ''
     },
 ]
 
 export const otherTools = [
     {
         name: "jQuery",
-        imagePath: ""
+        imageType: "svg",
+        image: jquery
     },
     {
         name: "git",
-        imagePath: ""
+        imageType: "svg",
+        image: git
     },
     {
         name: "github",
-        imagePath: ""
+        imageType: "svg",
+        image: github
+    },
+    {
+        name: "npm",
+        imageType: "svg",
+        image: npm
     },
     {
         name: "Webpack",
-        imagePath: ""
+        imageType: "svg",
+        image: webpack
     },
     {
         name: "Apache Velocity",
-        imagePath: ""
+        imageType: "png",
+        image: apache
     },
     {
         name: "Figma",
-        imagePath: ""
+        imageType: "svg",
+        image: figma
     },
     {
         name: "Bulma.io",
-        imagePath: ""
+        imageType: "svg",
+        image: bulma
     },
     {
         name: "Strapi",
-        imagePath: ""
+        imageType: "svg",
+        image: strapi
     },
     {
         name: "dbDesigner",
-        imagePath: ""
+        imageType: "png",
+        image: dbDesigner
     },
     {
         name: "HTTPie",
-        imagePath: ""
+        imageType: "svg",
+        image: httpie
     },
 ]

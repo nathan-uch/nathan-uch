@@ -1,3 +1,5 @@
+import { techStack, otherTools } from "../config";
+
 export default function App() {
 
     return (
@@ -6,9 +8,9 @@ export default function App() {
                 <div class="my-5 text-5xl md:text-6xl xl:text-7xl font-bold">
                     Tech Stack
                 </div>
-                <div class="flex flex-wrap flex-row justify-center items-center">
-
-                </div>
+                <ul class="w-[80%] flex flex-wrap justify-center gap-3 mb-6">
+                    
+                </ul>
             </div>
             <div>
                 <div class="my-5 text-1xl md:text-2xl xl:text-4xl">Other Tools and Technologies</div>
