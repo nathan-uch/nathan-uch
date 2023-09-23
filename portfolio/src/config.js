@@ -53,18 +53,6 @@ export const techStack = [
         icon1x: require('./icons/css1x.svg').default,
         icon2x: require('./icons/css2x.svg').default,
     },
-    {
-        name: "Tailwind",
-        icon: require('./icons/tailwind.svg').default,
-        icon1x: require('./icons/tailwind1x.svg').default,
-        icon2x: require('./icons/tailwind2x.svg').default,
-    },
-    {
-        name: "Bootstrap",
-        icon: require('./icons/bootstrap.svg').default,
-        icon1x: require('./icons/bootstrap1x.svg').default,
-        icon2x: require('./icons/bootstrap2x.svg').default,
-    },
 ]
 
 export const otherTools = [
@@ -117,10 +105,22 @@ export const otherTools = [
         icon2x: require('./icons/jquery2x.svg').default,
     },
     {
-        name: "Apache Velocity",
+        name: "Apache",
         icon: require('./icons/apache.png'),
         icon1x: require('./icons/apache1x.png'),
         icon2x: require('./icons/apache2x.png'),
+    },
+    {
+        name: "Tailwind",
+        icon: require('./icons/tailwind.svg').default,
+        icon1x: require('./icons/tailwind1x.svg').default,
+        icon2x: require('./icons/tailwind2x.svg').default,
+    },
+    {
+        name: "Bootstrap",
+        icon: require('./icons/bootstrap.svg').default,
+        icon1x: require('./icons/bootstrap1x.svg').default,
+        icon2x: require('./icons/bootstrap2x.svg').default,
     },
     {
         name: "Figma",
