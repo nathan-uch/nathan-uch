@@ -54,12 +54,6 @@ export const techStack = [
         icon2x: require('./icons/css2x.svg').default,
     },
     {
-        name: "GraphQL",
-        icon: require('./icons/graphql.svg').default,
-        icon1x: require('./icons/graphql1x.svg').default,
-        icon2x: require('./icons/graphql2x.svg').default,
-    },
-    {
         name: "Tailwind",
         icon: require('./icons/tailwind.svg').default,
         icon1x: require('./icons/tailwind1x.svg').default,
@@ -99,6 +93,24 @@ export const otherTools = [
         icon2x: require('./icons/webpack2x.svg').default,
     },
     {
+        name: "GraphQL",
+        icon: require('./icons/graphql.svg').default,
+        icon1x: require('./icons/graphql1x.svg').default,
+        icon2x: require('./icons/graphql2x.svg').default,
+    },
+    {
+        name: "JSON",
+        icon: require('./icons/json.svg').default,
+        icon1x: require('./icons/json1x.svg').default,
+        icon2x: require('./icons/json2x.svg').default,
+    },
+    {
+        name: "AJAX",
+        icon: require('./icons/ajax.svg').default,
+        icon1x: require('./icons/ajax1x.svg').default,
+        icon2x: require('./icons/ajax2x.svg').default,
+    },
+    {
         name: "jQuery",
         icon: require('./icons/jquery.svg').default,
         icon1x: require('./icons/jquery1x.svg').default,
@@ -133,6 +145,12 @@ export const otherTools = [
         icon: require('./icons/dbdesigner.png'),
         icon1x: require('./icons/dbdesigner1x.png'),
         icon2x: require('./icons/dbdesigner2x.png'),
+    },
+    {
+        name: "JWT Token",
+        icon: require('./icons/jwt.svg').default,
+        icon1x: require('./icons/jwt1x.svg').default,
+        icon2x: require('./icons/jwt2x.svg').default,
     },
     {
         name: "HTTPie",
