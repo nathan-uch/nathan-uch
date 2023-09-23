@@ -6,8 +6,8 @@ Feel free to check out my projects!
 [My portfolio](https://nathanhuang.dev)
 
 ## :books: My Stack and Tools:
-- JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, Next.js, TypeScript
-- Bootstrap, Tailwind, Bulma.io, jQuery, Apache Velocity, npm, Webpack, Git, GitHub, Babel, Figma, VSCode
+- React.js, JavaScript, HTML5, CSS3, Node.js, Express.js, PostgreSQL, Next.js, TypeScript
+- GraphQL, Bootstrap, Tailwind, Bulma.io, jQuery, Apache Velocity, npm, Webpack, Git, GitHub, Babel, Figma, VSCode
 
 ## :mailbox: How to reach me:
 - nuchuang.work@gmail.com
