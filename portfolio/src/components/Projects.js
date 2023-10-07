@@ -1,7 +1,7 @@
-export default function App() {
+export default function Projects() {
 
     return (
-        <div class="page-section bg-gray-200 relative flex flex-col justify-center items-center min-h-screen w-full py-8 text-pri-dark">
+        <div id="#projects" class="page-section bg-gray-200 relative flex flex-col justify-center items-center min-h-screen w-full py-8 text-pri-dark">
             <div class="flex flex-col items-center justify-center gap-8 w-full">
                 <h2 class="my-5 text-5xl md:text-6xl xl:text-7xl font-bold">
                     Projects

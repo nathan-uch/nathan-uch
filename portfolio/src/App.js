@@ -3,6 +3,7 @@ import Landing from './components/Landing'
 import About from './components/About'
 import Technologies from './components/Technologies'
 import Projects from './components/Projects'
+import Experience from './components/Experience'
 
 export default function App() {
 
@@ -13,6 +14,7 @@ export default function App() {
         <Landing />
         <About />
         <Technologies />
+        <Experience />
         <Projects />
       </main>
     </>

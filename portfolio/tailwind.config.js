@@ -11,6 +11,11 @@ module.exports = {
       boxShadow: {
         'reg': '3px 3px 0 #1f1f1f'
       },
+      transitionDuration: {
+        '1250': '1250ms',
+        '1500': '1500ms',
+        '2000': '2000ms',
+      }
     },
   },
   plugins: [],
